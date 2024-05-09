@@ -315,7 +315,7 @@
                   <a href="https://www.facebook.com/TheCocaColaCo/?locale=en_GB"><i class="fab fa-facebook-square fa-2x"></i></a>
                   <a href="https://twitter.com/CocaColaCo"><i class="fab fa-twitter fa-2x"></i></a>
                   <a href="https://www.coca-cola.com/gb/en"><i class="fab fa-google-plus fa-2x"></i></a>
-                  <a href="#"><i class="fab fa-github-square fa-2x"></i></a>
+                  <a href="https://github.com/Ethano-ChaChano/Web-3D-Applications"><i class="fab fa-github-square fa-2x"></i></a>
               </div>
           </div>
       </nav> <!-- End Footer Contents -->
